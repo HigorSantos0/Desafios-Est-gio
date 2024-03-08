@@ -1,0 +1,27 @@
+3)
+
+A) 9
+B) 128
+C) 49
+D) 100
+E) 13
+F) 27
+
+4)
+
+Primeira visita:
+
+Ligue o primeiro interruptor e deixe-o ligado por alguns minutos.
+Depois, desligue o primeiro interruptor e ligue o segundo interruptor.
+Por fim, entre na sala das lâmpadas.
+Agora, as situações possíveis são:
+
+Se a lâmpada estiver acesa, então o primeiro interruptor controla essa lâmpada.
+Se a lâmpada estiver apagada e estiver quente, então o segundo interruptor controla essa lâmpada.
+Se a lâmpada estiver apagada e estiver fria, então o terceiro interruptor controla essa lâmpada.
+
+Segunda visita:
+
+Se a lâmpada estava acesa na primeira visita, então você já sabe que o primeiro interruptor controla essa lâmpada.
+Se a lâmpada estava apagada e quente, então você já sabe que o segundo interruptor controla essa lâmpada.
+Se a lâmpada estava apagada e fria, então você já sabe que o terceiro interruptor controla essa lâmpada.
